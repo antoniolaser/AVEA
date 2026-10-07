@@ -1,0 +1,2 @@
+# lista dispositivi abilitati all'aggiornamento
+28:84:85:55:21:64
