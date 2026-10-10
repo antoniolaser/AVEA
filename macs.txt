@@ -1,3 +1,4 @@
 # lista dispositivi abilitati all'aggiornamento
 28:84:85:55:21:64
 3c:0f:02:c1:d9:50
+28:84:85:55:2D:6C
